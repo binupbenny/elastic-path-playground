@@ -1,0 +1,293 @@
+[
+  {
+    "type": "cartDiscounts",
+    "label": "Cart Discounts",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "carts",
+    "label": "Carts",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "read-customer-id", "label": "Query by Customer ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "categories",
+    "label": "Categories",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "channels",
+    "label": "Channels",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "customObjects",
+    "label": "Custom Objects",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "customers",
+    "label": "Customers",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "customerGroups",
+    "label": "Customer Groups",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "discountCodes",
+    "label": "Discount Codes",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "extensions",
+    "label": "Extensions",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "inventoryEntries",
+    "label": "Inventory Entries",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "messages",
+    "label": "Messages",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" }
+    ]
+  },
+  {
+    "type": "payments",
+    "label": "Payments",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "productDiscounts",
+    "label": "Product Discounts",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "products",
+    "label": "Products",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "productProjections",
+    "label": "Product Projections",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "search", "label": "Search" },
+      { "key": "suggest", "label": "Suggest" }
+    ]
+  },
+  {
+    "type": "productTypes",
+    "label": "Product Types",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "project",
+    "label": "Project",
+    "methods": [
+      { "key": "read-info", "label": "Read info" },
+      { "key": "update-info", "label": "Update Info" }
+    ]
+  },
+  {
+    "type": "orderEdits",
+    "label": "Order Edits",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "apply", "label": "Apply" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "orders",
+    "label": "Orders",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "import", "label": "Import" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "reviews",
+    "label": "Reviews",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" }
+    ]
+  },
+  {
+    "type": "shippingMethods",
+    "label": "Shipping Methods",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "shoppingLists",
+    "label": "Shopping Lists",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "states",
+    "label": "States",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "subscriptions",
+    "label": "Subscriptions",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "taxCategories",
+    "label": "Tax Categories",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "types",
+    "label": "Types",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  },
+  {
+    "type": "zones",
+    "label": "Zones",
+    "methods": [
+      { "key": "read", "label": "Query" },
+      { "key": "read-id", "label": "Query by ID" },
+      { "key": "create", "label": "Create" },
+      { "key": "update", "label": "Update" },
+      { "key": "delete", "label": "Delete" }
+    ]
+  }
+]
