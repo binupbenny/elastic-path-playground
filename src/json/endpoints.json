@@ -1,0 +1,112 @@
+
+[
+  {
+    "type": "cartDiscounts",
+    "label": "Cart Discounts"
+
+  },
+  {
+    "type": "carts",
+    "label": "Carts"
+  },
+  {
+    "type": "categories",
+    "label": "Categories"
+  },
+  {
+    "type": "channels",
+    "label": "Channels"
+  },
+  {
+    "type": "customObjects",
+    "label": "Custom Objects"
+  },
+  {
+    "type": "customers",
+    "label": "Customers"
+  },
+  {
+    "type": "customerGroups",
+    "label": "Customer Groups"
+  },
+  {
+    "type": "discountCodes",
+    "label": "Discount Codes"
+  },
+  {
+    "type": "extensions",
+    "label": "Extensions"
+  },
+  {
+    "type": "inventoryEntries",
+    "label": "Inventory Entries"
+  },
+  {
+    "type": "messages",
+    "label": "Messages"
+  },
+  {
+    "type": "payments",
+    "label": "Payments"
+  },
+  {
+    "type": "productDiscounts",
+    "label": "Product Discounts"
+  },
+  {
+    "type": "products",
+    "label": "Products"
+  },
+  {
+    "type": "productProjections",
+    "label": "Product Projections"
+  },
+  {
+    "type": "productTypes",
+    "label": "Product Types"
+  },
+  {
+    "type": "project",
+    "label": "Project"
+  },
+  {
+    "type": "orderEdits",
+    "label": "Order Edits"
+  },
+  {
+    "type": "orders",
+    "label": "Orders"
+  },
+  {
+    "type": "reviews",
+    "label": "Reviews"
+  },
+  {
+    "type": "shippingMethods",
+    "label": "Shipping Methods"
+  },
+  {
+    "type": "shoppingLists",
+    "label": "Shopping Lists"
+  },
+  {
+    "type": "states",
+    "label": "States"
+  },
+  {
+    "type": "subscriptions",
+    "label": "Subscriptions"
+  },
+  {
+    "type": "taxCategories",
+    "label": "Tax Categories"
+  },
+  {
+    "type": "types",
+    "label": "Types"
+  },
+  {
+    "type": "zones",
+    "label": "Zones"
+  }
+]
