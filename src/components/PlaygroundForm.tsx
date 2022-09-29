@@ -1,5 +1,6 @@
 import { useRef } from "react";
 import Endpoint from "../models/endpoints";
+import Footer from "./Footer";
 
 
 
@@ -249,6 +250,9 @@ const PlaygroundForm : React.FC<{endpoints : Endpoint[]}> = (props) => {
           </div>
         </div>
       </form>
+      <div className="flex flex-col justify-center items-center">
+      <Footer/>
+      </div>
     </div>
   );
 };
